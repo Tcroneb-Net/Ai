@@ -2,7 +2,7 @@ import telebot
 import requests
 
 # Replace with your actual bot token
-BOT_TOKEN = '7653249811:AAFDEHUsvSZLm5IqNhSuijpLCBconUwGgfs'
+BOT_TOKEN = '7653249811:AAGsFq_JW1o6gM0xMz89SO47UgwQPFazW4w'
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
